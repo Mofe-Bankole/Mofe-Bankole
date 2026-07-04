@@ -81,7 +81,9 @@
 - **Flow over force (Taoism).** Build with the grain of a problem instead of muscling against it — the right architecture usually reveals itself if you stop forcing the wrong one.
 - **Incentives are the system (Game Theory).** Every protocol, agent, or product is really just a set of incentives. Design those correctly and the system runs itself.
 - **Let go of the fixed plan (Alan Watts).** Hold the direction loosely. Rigid roadmaps break against reality — the work should be allowed to reshape itself as you learn.
-
+- **Agents are clients.** Build infrastructure they control, not intermediaries.
+- **Payment primitives matter.** x402 enables attestation-less execution; Solana escrow enables three-party settlement without multisig.
+- **Reputation is portable.** Credentials live on-chain across ecosystems.
 ---
 
 ### 📫 Connect With Me
