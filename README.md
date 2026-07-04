@@ -75,12 +75,12 @@
 ---
 
 ### ⚙️ Engineering Priorities
-
-Full-stack ownership — one person, one mental model, across contracts, backend, and frontend. No handoff friction.
-Ship to mainnet, not just a demo — testnet is a checkpoint, not a finish line.
-AI-native workflow — AI tooling is load-bearing across the build, not just autocomplete.
-Institutional tooling, retail access — yield, payments, and DeFi primitives should be simple enough for anyone to use.
-Speed as a discipline — idea to working execution measured in days, not sprints.
+ 
+- **Full-stack ownership** — one person, one mental model, across contracts, backend, and frontend. No handoff friction.
+- **Ship to mainnet, not just a demo** — testnet is a checkpoint, not a finish line.
+- **AI-native workflow** — AI tooling is load-bearing across the build, not just autocomplete.
+- **Institutional tooling, retail access** — yield, payments, and DeFi primitives should be simple enough for anyone to use.
+- **Speed as a discipline** — idea to working execution measured in days, not sprints.
 
 ---
 ### 🧭 Philosophy
