@@ -74,7 +74,7 @@
 
 ---
 
-⚙️ Engineering Priorities
+### ⚙️ Engineering Priorities
 
 Full-stack ownership — one person, one mental model, across contracts, backend, and frontend. No handoff friction.
 Ship to mainnet, not just a demo — testnet is a checkpoint, not a finish line.
